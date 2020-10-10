@@ -1,0 +1,16 @@
+h1 {
+    color: maroon;
+}
+
+h2 {
+    margin: 4px;
+}
+
+input.file-chooser {
+    margin: 5px;
+}
+
+p {
+    margin: 2px;
+    margin-left: 5px;
+}

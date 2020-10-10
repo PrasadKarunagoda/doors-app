@@ -1,0 +1,24 @@
+<div>
+  <p class="title">{{doorData.Name}}</p>
+  <p>
+    <label>Building</label>{{doorData.Building}}
+    <label>Floor</label>{{doorData.Floor}}
+    <label>Room</label>{{doorData.Room}}
+  </p>
+  <p>
+    <label>Width</label>{{doorData.Width}}
+    <label>Height</label>{{doorData.Height}}
+  </p>
+  <p>
+    <label>Lock</label>{{doorData.lock.displayText()}}
+    <input type="checkbox" title="done" [checked]="doorData.lockDone" (change)="doorData.lockDone = !doorData.lockDone">
+  </p>
+  <p>
+    <label>Cylinder</label>{{doorData.cylinder.displayText()}}
+    <input type="checkbox" title="done" [checked]="doorData.cylinderDone" (change)="doorData.cylinderDone = !doorData.cylinderDone">
+  </p>
+  <p>
+    <label>Frame</label>{{doorData.frame.Type}}
+    <input type="checkbox" title="done" [checked]="doorData.frameDone" (change)="doorData.frameDone = !doorData.frameDone">
+  </p>
+</div>

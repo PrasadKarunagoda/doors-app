@@ -1,0 +1,29 @@
+div {
+    border: 1px solid;
+    border-color: chocolate;
+    margin: 4px;
+    background-color: burlywood;
+}
+
+p {
+    margin: 4px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', sans-serif;
+}
+
+p.title {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkslategray;
+}
+
+label {
+    font-weight: normal;
+    color: maroon;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+input {
+    margin-left: 5px;
+}

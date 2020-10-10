@@ -1,0 +1,842 @@
+[
+    {
+        "Name":"4.1/ABC",
+        "Room":"Lorem ipsum",
+        "Building":"Dolor sit",
+        "Floor":"Amet, consectetur",
+        "Height":"4X",
+        "Width":"2P",
+        "Lock":{
+            "Type":"276Q adipiscing",
+            "Qty":1,
+            "Material":"GL-2323"
+        },
+        "Cylinder":{
+            "Type":"elit, sed 2287",
+            "Qty":3,
+            "Material":"RB-313 do"
+        },
+        "Frame":{
+            "Type":"Eiusmod tempor"
+        }
+    },
+    {
+        "Name":"6.1/AD dolore",
+        "Room":"aliqua.",
+        "Building":"enim",
+        "Floor":"minim",
+        "Height":"4X",
+        "Width":"12UR",
+        "Lock":{
+            "Type":"7 ut",
+            "Qty":2,
+            "Material":"commodo-4"
+        },
+        "Cylinder":{
+            "Type":"5 in",
+            "Qty":2,
+            "Material":"velit-6"
+        },
+        "Frame":{
+            "Type":"2 nulla"
+        }
+    },
+    {
+        "Name":"9.1/AD occaecat",
+        "Room":"non",
+        "Building":"sunt",
+        "Floor":"culpa",
+        "Height":"7X",
+        "Width":"6UR",
+        "Lock":{
+            "Type":"2 laborum.Sed",
+            "Qty":12,
+            "Material":"omnis-5"
+        },
+        "Cylinder":{
+            "Type":"3 accusantium",
+            "Qty":11,
+            "Material":"rem-5"
+        },
+        "Frame":{
+            "Type":"4 illo"
+        }
+    },
+    {
+        "Name":"9.1/AD quasi",
+        "Room":"beatae",
+        "Building":"dicta",
+        "Floor":"explicabo.",
+        "Height":"4X",
+        "Width":"10UR",
+        "Lock":{
+            "Type":"8 aspernatur",
+            "Qty":4,
+            "Material":"fugit,-4"
+        },
+        "Cylinder":{
+            "Type":"5 eos",
+            "Qty":7,
+            "Material":"sequi-5"
+        },
+        "Frame":{
+            "Type":"8 qui"
+        }
+    },
+    {
+        "Name":"5.1/AD dolor",
+        "Room":"amet,",
+        "Building":"adipisci",
+        "Floor":"sed",
+        "Height":"3X",
+        "Width":"4UR",
+        "Lock":{
+            "Type":"7 ut",
+            "Qty":2,
+            "Material":"magnam-7"
+        },
+        "Cylinder":{
+            "Type":"2 ad",
+            "Qty":7,
+            "Material":"nostrum-5"
+        },
+        "Frame":{
+            "Type":"8 nisi"
+        }
+    },
+    {
+        "Name":"7.1/AD ea",
+        "Room":"consequatur?",
+        "Building":"autem",
+        "Floor":"eum",
+        "Height":"13X",
+        "Width":"2UR",
+        "Lock":{
+            "Type":"9 esse",
+            "Qty":5,
+            "Material":"consequatur,-5"
+        },
+        "Cylinder":{
+            "Type":"7 fugiat",
+            "Qty":8,
+            "Material":"pariaturincididunt-6"
+        },
+        "Frame":{
+            "Type":"6 aliqua."
+        }
+    },
+    {
+        "Name":"4.1/AD minim",
+        "Room":"quis",
+        "Building":"exercitation",
+        "Floor":"laboris",
+        "Height":"2X",
+        "Width":"2UR",
+        "Lock":{
+            "Type":"7 Duis",
+            "Qty":5,
+            "Material":"in-2"
+        },
+        "Cylinder":{
+            "Type":"5 cillum",
+            "Qty":2,
+            "Material":"nulla-9"
+        },
+        "Frame":{
+            "Type":"8 non"
+        }
+    },
+    {
+        "Name":"4.1/AD culpa",
+        "Room":"officia",
+        "Building":"mollit",
+        "Floor":"id",
+        "Height":"11X",
+        "Width":"12UR",
+        "Lock":{
+            "Type":"5 natus",
+            "Qty":3,
+            "Material":"accusantium-11"
+        },
+        "Cylinder":{
+            "Type":"3 eaque",
+            "Qty":4,
+            "Material":"illo-9"
+        },
+        "Frame":{
+            "Type":"5 beatae"
+        }
+    },
+    {
+        "Name":"5.1/AD explicabo.",
+        "Room":"enim",
+        "Building":"voluptatem",
+        "Floor":"voluptas",
+        "Height":"10X",
+        "Width":"4UR",
+        "Lock":{
+            "Type":"6 quia",
+            "Qty":5,
+            "Material":"eos-7"
+        },
+        "Cylinder":{
+            "Type":"5 Neque",
+            "Qty":8,
+            "Material":"qui-5"
+        },
+        "Frame":{
+            "Type":"5 amet,"
+        }
+    },
+    {
+        "Name":"8.1/AD sed",
+        "Room":"non",
+        "Building":"eius",
+        "Floor":"tempora",
+        "Height":"2X",
+        "Width":"2UR",
+        "Lock":{
+            "Type":"6 quaerat",
+            "Qty":2,
+            "Material":"ad-7"
+        },
+        "Cylinder":{
+            "Type":"7 ullam",
+            "Qty":8,
+            "Material":"nisi-7"
+        },
+        "Frame":{
+            "Type":"2 consequatur?"
+        }
+    },
+    {
+        "Name":"5.1/AD eum",
+        "Room":"reprehenderit",
+        "Building":"in",
+        "Floor":"voluptate",
+        "Height":"4X",
+        "Width":"5UR",
+        "Lock":{
+            "Type":"12 illum",
+            "Qty":7,
+            "Material":"fugiat-8"
+        },
+        "Cylinder":{
+            "Type":"18 labore",
+            "Qty":6,
+            "Material":"aliqua.-4"
+        },
+        "Frame":{
+            "Type":"5 quis"
+        }
+    },
+    {
+        "Name":"12.1/AD laboris",
+        "Room":"ut",
+        "Building":"ex",
+        "Floor":"commodo",
+        "Height":"4X",
+        "Width":"5UR",
+        "Lock":{
+            "Type":"2 in",
+            "Qty":5,
+            "Material":"cillum-2"
+        },
+        "Cylinder":{
+            "Type":"5 Excepteur",
+            "Qty":8,
+            "Material":"non-4"
+        },
+        "Frame":{
+            "Type":"5 officia"
+        }
+    },
+    {
+        "Name":"6.1/AD id",
+        "Room":"laborum.Sed",
+        "Building":"perspiciatis",
+        "Floor":"omnis",
+        "Height":"5X",
+        "Width":"3UR",
+        "Lock":{
+            "Type":"11 laudantium,",
+            "Qty":3,
+            "Material":"eaque-4"
+        },
+        "Cylinder":{
+            "Type":"4 veritatis",
+            "Qty":5,
+            "Material":"beatae-5"
+        },
+        "Frame":{
+            "Type":"10 enim"
+        }
+    },
+    {
+        "Name":"10.1/AD voluptas",
+        "Room":"aspernatur",
+        "Building":"odit",
+        "Floor":"fugit,",
+        "Height":"4X",
+        "Width":"5UR",
+        "Lock":{
+            "Type":"3 ratione",
+            "Qty":5,
+            "Material":"Neque-8"
+        },
+        "Cylinder":{
+            "Type":"3 ipsum",
+            "Qty":5,
+            "Material":"amet,-8"
+        },
+        "Frame":{
+            "Type":"3 non"
+        }
+    },
+    {
+        "Name":"4.1/AD tempora",
+        "Room":"ut",
+        "Building":"et",
+        "Floor":"magnam",
+        "Height":"7X",
+        "Width":"2UR",
+        "Lock":{
+            "Type":"2 veniam,",
+            "Qty":7,
+            "Material":"ullam-8"
+        },
+        "Cylinder":{
+            "Type":"4 aliquid",
+            "Qty":2,
+            "Material":"consequatur?-5"
+        },
+        "Frame":{
+            "Type":"3 reprehenderit"
+        }
+    },
+    {
+        "Name":"2.1/AD voluptate",
+        "Room":"esse",
+        "Building":"nihil",
+        "Floor":"consequatur,",
+        "Height":"5X",
+        "Width":"7UR",
+        "Lock":{
+            "Type":"6 voluptas",
+            "Qty":18,
+            "Material":"labore-6"
+        },
+        "Cylinder":{
+            "Type":"7 enim",
+            "Qty":5,
+            "Material":"quis-12"
+        },
+        "Frame":{
+            "Type":"7 ut"
+        }
+    },
+    {
+        "Name":"2.1/AD commodo",
+        "Room":"Duis",
+        "Building":"irure",
+        "Floor":"in",
+        "Height":"2X",
+        "Width":"5UR",
+        "Lock":{
+            "Type":"6 eu",
+            "Qty":5,
+            "Material":"Excepteur-8"
+        },
+        "Cylinder":{
+            "Type":"3 sunt",
+            "Qty":5,
+            "Material":"officia-6"
+        },
+        "Frame":{
+            "Type":"2 laborum.Sed"
+        }
+    },
+    {
+        "Name":"12.1/AD omnis",
+        "Room":"natus",
+        "Building":"sit",
+        "Floor":"accusantium",
+        "Height":"11X",
+        "Width":"3UR",
+        "Lock":{
+            "Type":"5 quae",
+            "Qty":4,
+            "Material":"veritatis-5"
+        },
+        "Cylinder":{
+            "Type":"6 dicta",
+            "Qty":10,
+            "Material":"enim-10"
+        },
+        "Frame":{
+            "Type":"8 aspernatur"
+        }
+    },
+    {
+        "Name":"4.1/AD fugit,",
+        "Room":"quia",
+        "Building":"magni",
+        "Floor":"eos",
+        "Height":"7X",
+        "Width":"5UR",
+        "Lock":{
+            "Type":"5 quisquam",
+            "Qty":3,
+            "Material":"ipsum-5"
+        },
+        "Cylinder":{
+            "Type":"5 adipisci",
+            "Qty":3,
+            "Material":"non-4"
+        },
+        "Frame":{
+            "Type":"7 ut"
+        }
+    },
+    {
+        "Name":"2.1/AD magnam",
+        "Room":"quaerat",
+        "Building":"Ut",
+        "Floor":"ad",
+        "Height":"7X",
+        "Width":"7UR",
+        "Lock":{
+            "Type":"5 suscipit",
+            "Qty":4,
+            "Material":"aliquid-2"
+        },
+        "Cylinder":{
+            "Type":"12 autem",
+            "Qty":3,
+            "Material":"reprehenderit-2"
+        },
+        "Frame":{
+            "Type":"9 esse"
+        }
+    },
+    {
+        "Name":"5.1/AD consequatur,",
+        "Room":"illum",
+        "Building":"dolorem",
+        "Floor":"fugiat",
+        "Height":"8X",
+        "Width":"18UR",
+        "Lock":{
+            "Type":"6 dolore",
+            "Qty":7,
+            "Material":"enim-5"
+        },
+        "Cylinder":{
+            "Type":"4 exercitation",
+            "Qty":7,
+            "Material":"ut-2"
+        },
+        "Frame":{
+            "Type":"7 Duis"
+        }
+    },
+    {
+        "Name":"5.1/AD in",
+        "Room":"in",
+        "Building":"velit",
+        "Floor":"cillum",
+        "Height":"2X",
+        "Width":"5UR",
+        "Lock":{
+            "Type":"9 occaecat",
+            "Qty":3,
+            "Material":"sunt-5"
+        },
+        "Cylinder":{
+            "Type":"7 mollit",
+            "Qty":2,
+            "Material":"laborum.Sed-12"
+        },
+        "Frame":{
+            "Type":"5 natus"
+        }
+    },
+    {
+        "Name":"3.1/AD accusantium",
+        "Room":"laudantium,",
+        "Building":"rem",
+        "Floor":"eaque",
+        "Height":"4X",
+        "Width":"4UR",
+        "Lock":{
+            "Type":"9 quasi",
+            "Qty":6,
+            "Material":"dicta-10"
+        },
+        "Cylinder":{
+            "Type":"4 voluptatem",
+            "Qty":8,
+            "Material":"aspernatur-4"
+        },
+        "Frame":{
+            "Type":"6 quia"
+        }
+    },
+    {
+        "Name":"5.1/AD eos",
+        "Room":"ratione",
+        "Building":"sequi",
+        "Floor":"Neque",
+        "Height":"8X",
+        "Width":"3UR",
+        "Lock":{
+            "Type":"5 dolor",
+            "Qty":5,
+            "Material":"adipisci-3"
+        },
+        "Cylinder":{
+            "Type":"3 eius",
+            "Qty":7,
+            "Material":"ut-2"
+        },
+        "Frame":{
+            "Type":"6 quaerat"
+        }
+    },
+    {
+        "Name":"2.1/AD ad",
+        "Room":"veniam,",
+        "Building":"nostrum",
+        "Floor":"ullam",
+        "Height":"8X",
+        "Width":"4UR",
+        "Lock":{
+            "Type":"7 ea",
+            "Qty":12,
+            "Material":"autem-3"
+        },
+        "Cylinder":{
+            "Type":"13 in",
+            "Qty":9,
+            "Material":"esse-5"
+        },
+        "Frame":{
+            "Type":"12 illum"
+        }
+    },
+    {
+        "Name":"7.1/AD fugiat",
+        "Room":"voluptas",
+        "Building":"pariaturincididunt",
+        "Floor":"labore",
+        "Height":"6X",
+        "Width":"7UR",
+        "Lock":{
+            "Type":"4 minim",
+            "Qty":4,
+            "Material":"exercitation-7"
+        },
+        "Cylinder":{
+            "Type":"2 ex",
+            "Qty":7,
+            "Material":"Duis-5"
+        },
+        "Frame":{
+            "Type":"2 in"
+        }
+    },
+    {
+        "Name":"5.1/AD cillum",
+        "Room":"eu",
+        "Building":"nulla",
+        "Floor":"Excepteur",
+        "Height":"8X",
+        "Width":"3UR",
+        "Lock":{
+            "Type":"4 culpa",
+            "Qty":7,
+            "Material":"mollit-2"
+        },
+        "Cylinder":{
+            "Type":"11 perspiciatis",
+            "Qty":5,
+            "Material":"natus-3"
+        },
+        "Frame":{
+            "Type":"11 laudantium,"
+        }
+    },
+    {
+        "Name":"3.1/AD eaque",
+        "Room":"quae",
+        "Building":"illo",
+        "Floor":"veritatis",
+        "Height":"5X",
+        "Width":"6UR",
+        "Lock":{
+            "Type":"5 explicabo.",
+            "Qty":4,
+            "Material":"voluptatem-8"
+        },
+        "Cylinder":{
+            "Type":"10 odit",
+            "Qty":6,
+            "Material":"quia-5"
+        },
+        "Frame":{
+            "Type":"3 ratione"
+        }
+    },
+    {
+        "Name":"5.1/AD Neque",
+        "Room":"quisquam",
+        "Building":"qui",
+        "Floor":"ipsum",
+        "Height":"5X",
+        "Width":"5UR",
+        "Lock":{
+            "Type":"8 sed",
+            "Qty":3,
+            "Material":"eius-7"
+        },
+        "Cylinder":{
+            "Type":"2 et",
+            "Qty":6,
+            "Material":"quaerat-2"
+        },
+        "Frame":{
+            "Type":"2 veniam,"
+        }
+    },
+    {
+        "Name":"7.1/AD ullam",
+        "Room":"suscipit",
+        "Building":"nisi",
+        "Floor":"aliquid",
+        "Height":"2X",
+        "Width":"12UR",
+        "Lock":{
+            "Type":"5 eum",
+            "Qty":13,
+            "Material":"in-9"
+        },
+        "Cylinder":{
+            "Type":"4 nihil",
+            "Qty":12,
+            "Material":"illum-7"
+        },
+        "Frame":{
+            "Type":"6 voluptas"
+        }
+    },
+    {
+        "Name":"18.1/AD labore",
+        "Room":"dolore",
+        "Building":"aliqua.",
+        "Floor":"enim",
+        "Height":"5X",
+        "Width":"4UR",
+        "Lock":{
+            "Type":"12 laboris",
+            "Qty":2,
+            "Material":"ex-7"
+        },
+        "Cylinder":{
+            "Type":"4 irure",
+            "Qty":2,
+            "Material":"in-5"
+        },
+        "Frame":{
+            "Type":"6 eu"
+        }
+    },
+    {
+        "Name":"5.1/AD Excepteur",
+        "Room":"occaecat",
+        "Building":"non",
+        "Floor":"sunt",
+        "Height":"5X",
+        "Width":"7UR",
+        "Lock":{
+            "Type":"6 id",
+            "Qty":11,
+            "Material":"perspiciatis-5"
+        },
+        "Cylinder":{
+            "Type":"5 sit",
+            "Qty":11,
+            "Material":"laudantium,-3"
+        },
+        "Frame":{
+            "Type":"5 quae"
+        }
+    },
+    {
+        "Name":"4.1/AD veritatis",
+        "Room":"quasi",
+        "Building":"beatae",
+        "Floor":"dicta",
+        "Height":"10X",
+        "Width":"4UR",
+        "Lock":{
+            "Type":"10 voluptas",
+            "Qty":10,
+            "Material":"odit-6"
+        },
+        "Cylinder":{
+            "Type":"4 magni",
+            "Qty":3,
+            "Material":"ratione-5"
+        },
+        "Frame":{
+            "Type":"5 quisquam"
+        }
+    },
+    {
+        "Name":"3.1/AD ipsum",
+        "Room":"dolor",
+        "Building":"amet,",
+        "Floor":"adipisci",
+        "Height":"3X",
+        "Width":"3UR",
+        "Lock":{
+            "Type":"4 tempora",
+            "Qty":2,
+            "Material":"et-6"
+        },
+        "Cylinder":{
+            "Type":"7 Ut",
+            "Qty":2,
+            "Material":"veniam,-7"
+        },
+        "Frame":{
+            "Type":"5 suscipit"
+        }
+    },
+    {
+        "Name":"4.1/AD aliquid",
+        "Room":"ea",
+        "Building":"consequatur?",
+        "Floor":"autem",
+        "Height":"3X",
+        "Width":"13UR",
+        "Lock":{
+            "Type":"2 voluptate",
+            "Qty":4,
+            "Material":"nihil-12"
+        },
+        "Cylinder":{
+            "Type":"5 dolorem",
+            "Qty":6,
+            "Material":"voluptas-18"
+        },
+        "Frame":{
+            "Type":"6 dolore"
+        }
+    },
+    {
+        "Name":"7.1/AD enim",
+        "Room":"minim",
+        "Building":"quis",
+        "Floor":"exercitation",
+        "Height":"7X",
+        "Width":"2UR",
+        "Lock":{
+            "Type":"2 commodo",
+            "Qty":4,
+            "Material":"irure-2"
+        },
+        "Cylinder":{
+            "Type":"2 velit",
+            "Qty":6,
+            "Material":"eu-5"
+        },
+        "Frame":{
+            "Type":"9 occaecat"
+        }
+    },
+    {
+        "Name":"3.1/AD sunt",
+        "Room":"culpa",
+        "Building":"officia",
+        "Floor":"mollit",
+        "Height":"2X",
+        "Width":"11UR",
+        "Lock":{
+            "Type":"12 omnis",
+            "Qty":5,
+            "Material":"sit-11"
+        },
+        "Cylinder":{
+            "Type":"11 rem",
+            "Qty":5,
+            "Material":"quae-4"
+        },
+        "Frame":{
+            "Type":"9 quasi"
+        }
+    },
+    {
+        "Name":"6.1/AD dicta",
+        "Room":"explicabo.",
+        "Building":"enim",
+        "Floor":"voluptatem",
+        "Height":"8X",
+        "Width":"10UR",
+        "Lock":{
+            "Type":"4 fugit,",
+            "Qty":4,
+            "Material":"magni-3"
+        },
+        "Cylinder":{
+            "Type":"7 sequi",
+            "Qty":5,
+            "Material":"quisquam-3"
+        },
+        "Frame":{
+            "Type":"5 dolor"
+        }
+    },
+    {
+        "Name":"5.1/AD adipisci",
+        "Room":"sed",
+        "Building":"non",
+        "Floor":"eius",
+        "Height":"7X",
+        "Width":"2UR",
+        "Lock":{
+            "Type":"2 magnam",
+            "Qty":7,
+            "Material":"Ut-2"
+        },
+        "Cylinder":{
+            "Type":"7 nostrum",
+            "Qty":5,
+            "Material":"suscipit-4"
+        },
+        "Frame":{
+            "Type":"7 ea"
+        }
+    },
+    {
+        "Name":"12.1/AD autem",
+        "Room":"eum",
+        "Building":"reprehenderit",
+        "Floor":"in",
+        "Height":"9X",
+        "Width":"4UR",
+        "Lock":{
+            "Type":"5 consequatur,",
+            "Qty":5,
+            "Material":"dolorem-6"
+        },
+        "Cylinder":{
+            "Type":"8 pariatur",
+            "Qty":8,
+            "Material":"jhadjadd-8"
+        },
+        "Frame":{
+            "Type":"8 jhadjadd"
+        }
+    }
+]
